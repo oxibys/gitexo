@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Je suis un wabbit
-=======
-je suis un lapin.
->>>>>>> 2ab287c9b4ea0da2d4be4c8ab1e13009a07a148a
